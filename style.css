@@ -1,0 +1,16 @@
+.container{
+    background: rgb(150, 214, 214);
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.mb-3{
+    padding-top: 50px; 
+}
+.btn{
+    width: 70px;
+    margin-left: 25%;
+}
